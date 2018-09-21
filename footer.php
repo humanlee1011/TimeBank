@@ -4,7 +4,7 @@
     <div class="container footer" style="margin-top:30px;">
       <div class="row">
         <div class="col-sm-8 col-md-4 col-xs-15 col-lg-3">
-          <div class="footer-logo"><a href="index.html"><img src="/images/footer-logo.png" alt="footer logo"></a> </div>
+          <div class="footer-logo"><a href="index.html"><img src="/images/logo.png" alt="footer logo"></a> </div>
           <p>基于区块链的时光银行</p>
           <div class="footer-content">
             <div class="email"> <i class="fa fa-envelope"></i>
@@ -47,8 +47,9 @@
             <div class="tabBlock" id="TabBlock-1">
               <ul class="list-links list-unstyled">
                 <li><a href="/reg/">注册/登录</a></li>
-                <li><a href="/my/copyright_upload/">已发布的任务</a></li>
-                <li><a href="/my/copyright_buy/">已领取的任务</a></li>
+                <li><a href="/my/mission_upload/">已发布的任务</a></li>
+                <li><a href="/my/mission_accept/">已领取的任务</a></li>                
+                <li><a href="/my/mission_complete/">已完成的任务</a></li>
                 <li><a href="/my/token/">我的Token</a></li>
               </ul>
             </div>
